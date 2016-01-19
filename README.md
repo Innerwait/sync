@@ -1,2 +1,2 @@
 # sync
-Chrome desktop vs Chrome Android vs Google App vs Google Now vs Google+ vs Picassa vs accounts
+Chrome desktop vs Chrome on Android vs Google App vs Google Now vs Google+ vs Picassa vs gmail vs googlemail
